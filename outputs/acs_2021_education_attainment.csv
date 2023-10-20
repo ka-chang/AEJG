@@ -1,0 +1,547 @@
+GEOID,NAME,variable,estimate,moe
+53001,"Adams County, Washington",pop,20353,NA
+53001,"Adams County, Washington",pop_white,10964,885.2765957446808
+53001,"Adams County, Washington",pop_black,73,66.72340425531914
+53001,"Adams County, Washington",pop_native,464,247.82978723404256
+53001,"Adams County, Washington",pop_asian,138,92.93617021276596
+53001,"Adams County, Washington",pop_latinx,13140,NA
+53001,"Adams County, Washington",edu_total,11073,88.17021276595744
+53001,"Adams County, Washington",edu_8th,288,157.27659574468083
+53001,"Adams County, Washington",edu_9th,341,172.7659574468085
+53001,"Adams County, Washington",edu_10th,155,108.42553191489361
+53001,"Adams County, Washington",edu_11th,246,225.1914893617021
+53001,"Adams County, Washington",edu_12th,163,101.27659574468085
+53001,"Adams County, Washington",edu_hs,2323,334.80851063829783
+53001,"Adams County, Washington",edu_ged,1074,234.72340425531914
+53003,"Asotin County, Washington",pop,22285,NA
+53003,"Asotin County, Washington",pop_white,20291,254.9787234042553
+53003,"Asotin County, Washington",pop_black,202,98.8936170212766
+53003,"Asotin County, Washington",pop_native,286,258.55319148936167
+53003,"Asotin County, Washington",pop_asian,262,76.25531914893617
+53003,"Asotin County, Washington",pop_latinx,1007,NA
+53003,"Asotin County, Washington",edu_total,16112,96.51063829787233
+53003,"Asotin County, Washington",edu_8th,105,88.17021276595744
+53003,"Asotin County, Washington",edu_9th,98,72.68085106382978
+53003,"Asotin County, Washington",edu_10th,193,127.48936170212765
+53003,"Asotin County, Washington",edu_11th,488,200.17021276595744
+53003,"Asotin County, Washington",edu_12th,350,172.7659574468085
+53003,"Asotin County, Washington",edu_hs,3617,384.8510638297872
+53003,"Asotin County, Washington",edu_ged,910,245.44680851063828
+53005,"Benton County, Washington",pop,204551,NA
+53005,"Benton County, Washington",pop_white,159628,2066.0425531914893
+53005,"Benton County, Washington",pop_black,3494,508.7659574468085
+53005,"Benton County, Washington",pop_native,1745,545.7021276595744
+53005,"Benton County, Washington",pop_asian,6188,627.9148936170212
+53005,"Benton County, Washington",pop_latinx,46945,NA
+53005,"Benton County, Washington",edu_total,132817,177.531914893617
+53005,"Benton County, Washington",edu_8th,849,285.9574468085106
+53005,"Benton County, Washington",edu_9th,1225,425.36170212765956
+53005,"Benton County, Washington",edu_10th,1350,402.7234042553191
+53005,"Benton County, Washington",edu_11th,1811,403.9148936170213
+53005,"Benton County, Washington",edu_12th,2098,480.17021276595744
+53005,"Benton County, Washington",edu_hs,23854,1486.9787234042553
+53005,"Benton County, Washington",edu_ged,6927,837.6170212765957
+53007,"Chelan County, Washington",pop,78508,NA
+53007,"Chelan County, Washington",pop_white,56789,1249.8723404255318
+53007,"Chelan County, Washington",pop_black,339,154.89361702127658
+53007,"Chelan County, Washington",pop_native,558,178.72340425531914
+53007,"Chelan County, Washington",pop_asian,635,201.36170212765956
+53007,"Chelan County, Washington",pop_latinx,22342,NA
+53007,"Chelan County, Washington",edu_total,53696,191.82978723404256
+53007,"Chelan County, Washington",edu_8th,327,176.3404255319149
+53007,"Chelan County, Washington",edu_9th,688,328.8510638297872
+53007,"Chelan County, Washington",edu_10th,1176,403.9148936170213
+53007,"Chelan County, Washington",edu_11th,1013,371.74468085106383
+53007,"Chelan County, Washington",edu_12th,1055,421.78723404255317
+53007,"Chelan County, Washington",edu_hs,10926,1040.1702127659573
+53007,"Chelan County, Washington",edu_ged,2309,477.78723404255317
+53009,"Clallam County, Washington",pop,76727,NA
+53009,"Clallam County, Washington",pop_white,65166,602.8936170212766
+53009,"Clallam County, Washington",pop_black,789,264.51063829787233
+53009,"Clallam County, Washington",pop_native,3173,334.80851063829783
+53009,"Clallam County, Washington",pop_asian,1151,257.36170212765956
+53009,"Clallam County, Washington",pop_latinx,5377,NA
+53009,"Clallam County, Washington",edu_total,59074,162.04255319148936
+53009,"Clallam County, Washington",edu_8th,264,135.82978723404256
+53009,"Clallam County, Washington",edu_9th,314,120.34042553191489
+53009,"Clallam County, Washington",edu_10th,725,318.12765957446805
+53009,"Clallam County, Washington",edu_11th,786,250.2127659574468
+53009,"Clallam County, Washington",edu_12th,1181,250.2127659574468
+53009,"Clallam County, Washington",edu_hs,11802,886.4680851063829
+53009,"Clallam County, Washington",edu_ged,2944,525.4468085106382
+53011,"Clark County, Washington",pop,496494,NA
+53011,"Clark County, Washington",pop_white,404032,2605.787234042553
+53011,"Clark County, Washington",pop_black,9219,810.2127659574468
+53011,"Clark County, Washington",pop_native,2995,631.4893617021277
+53011,"Clark County, Washington",pop_asian,23426,804.2553191489361
+53011,"Clark County, Washington",pop_latinx,51584,NA
+53011,"Clark County, Washington",edu_total,338510,NA
+53011,"Clark County, Washington",edu_8th,1259,448
+53011,"Clark County, Washington",edu_9th,2384,343.1489361702128
+53011,"Clark County, Washington",edu_10th,3584,650.5531914893617
+53011,"Clark County, Washington",edu_11th,4300,669.6170212765957
+53011,"Clark County, Washington",edu_12th,6066,756.595744680851
+53011,"Clark County, Washington",edu_hs,71139,2284.0851063829787
+53011,"Clark County, Washington",edu_ged,13169,1135.4893617021276
+53013,"Columbia County, Washington",pop,3969,NA
+53013,"Columbia County, Washington",pop_white,3367,129.87234042553192
+53013,"Columbia County, Washington",pop_black,58,61.95744680851064
+53013,"Columbia County, Washington",pop_native,9,15.48936170212766
+53013,"Columbia County, Washington",pop_asian,2,4.76595744680851
+53013,"Columbia County, Washington",pop_latinx,321,NA
+53013,"Columbia County, Washington",edu_total,3047,133.44680851063828
+53013,"Columbia County, Washington",edu_8th,19,28.595744680851062
+53013,"Columbia County, Washington",edu_9th,81,91.74468085106382
+53013,"Columbia County, Washington",edu_10th,28,33.36170212765957
+53013,"Columbia County, Washington",edu_11th,22,22.638297872340424
+53013,"Columbia County, Washington",edu_12th,43,39.31914893617021
+53013,"Columbia County, Washington",edu_hs,445,116.7659574468085
+53013,"Columbia County, Washington",edu_ged,169,106.04255319148936
+53015,"Cowlitz County, Washington",pop,109457,NA
+53015,"Cowlitz County, Washington",pop_white,94877,942.4680851063829
+53015,"Cowlitz County, Washington",pop_black,983,315.74468085106383
+53015,"Cowlitz County, Washington",pop_native,1639,644.595744680851
+53015,"Cowlitz County, Washington",pop_asian,1334,235.91489361702128
+53015,"Cowlitz County, Washington",pop_latinx,10440,NA
+53015,"Cowlitz County, Washington",edu_total,76176,265.70212765957444
+53015,"Cowlitz County, Washington",edu_8th,618,215.65957446808508
+53015,"Cowlitz County, Washington",edu_9th,816,308.59574468085106
+53015,"Cowlitz County, Washington",edu_10th,1348,414.6382978723404
+53015,"Cowlitz County, Washington",edu_11th,1561,463.4893617021276
+53015,"Cowlitz County, Washington",edu_12th,1470,343.1489361702128
+53015,"Cowlitz County, Washington",edu_hs,18514,1141.4468085106382
+53015,"Cowlitz County, Washington",edu_ged,5121,733.9574468085106
+53017,"Douglas County, Washington",pop,42622,NA
+53017,"Douglas County, Washington",pop_white,28246,486.12765957446805
+53017,"Douglas County, Washington",pop_black,233,70.29787234042553
+53017,"Douglas County, Washington",pop_native,451,226.38297872340425
+53017,"Douglas County, Washington",pop_asian,295,129.87234042553192
+53017,"Douglas County, Washington",pop_latinx,13888,NA
+53017,"Douglas County, Washington",edu_total,28156,90.5531914893617
+53017,"Douglas County, Washington",edu_8th,372,176.3404255319149
+53017,"Douglas County, Washington",edu_9th,610,197.7872340425532
+53017,"Douglas County, Washington",edu_10th,378,137.02127659574467
+53017,"Douglas County, Washington",edu_11th,531,187.06382978723403
+53017,"Douglas County, Washington",edu_12th,689,221.61702127659572
+53017,"Douglas County, Washington",edu_hs,6708,623.1489361702128
+53017,"Douglas County, Washington",edu_ged,1593,358.6382978723404
+53019,"Ferry County, Washington",pop,7198,NA
+53019,"Ferry County, Washington",pop_white,5249,59.57446808510638
+53019,"Ferry County, Washington",pop_black,21,20.25531914893617
+53019,"Ferry County, Washington",pop_native,1136,139.40425531914892
+53019,"Ferry County, Washington",pop_asian,14,23.829787234042552
+53019,"Ferry County, Washington",pop_latinx,90,54.80851063829787
+53019,"Ferry County, Washington",edu_total,5487,150.12765957446808
+53019,"Ferry County, Washington",edu_8th,59,65.53191489361701
+53019,"Ferry County, Washington",edu_9th,18,23.829787234042552
+53019,"Ferry County, Washington",edu_10th,135,71.48936170212765
+53019,"Ferry County, Washington",edu_11th,107,59.57446808510638
+53019,"Ferry County, Washington",edu_12th,146,77.44680851063829
+53019,"Ferry County, Washington",edu_hs,1528,289.531914893617
+53019,"Ferry County, Washington",edu_ged,310,106.04255319148936
+53021,"Franklin County, Washington",pop,95313,NA
+53021,"Franklin County, Washington",pop_white,58985,2452.0851063829787
+53021,"Franklin County, Washington",pop_black,2387,421.78723404255317
+53021,"Franklin County, Washington",pop_native,1334,611.2340425531914
+53021,"Franklin County, Washington",pop_asian,1902,446.80851063829783
+53021,"Franklin County, Washington",pop_latinx,51098,NA
+53021,"Franklin County, Washington",edu_total,55250,262.12765957446805
+53021,"Franklin County, Washington",edu_8th,1287,411.063829787234
+53021,"Franklin County, Washington",edu_9th,1319,366.9787234042553
+53021,"Franklin County, Washington",edu_10th,1170,371.74468085106383
+53021,"Franklin County, Washington",edu_11th,1303,470.6382978723404
+53021,"Franklin County, Washington",edu_12th,1414,431.31914893617017
+53021,"Franklin County, Washington",edu_hs,10203,1079.4893617021276
+53021,"Franklin County, Washington",edu_ged,3738,786.3829787234042
+53023,"Garfield County, Washington",pop,2278,NA
+53023,"Garfield County, Washington",pop_white,2119,82.2127659574468
+53023,"Garfield County, Washington",pop_black,0,15.48936170212766
+53023,"Garfield County, Washington",pop_native,0,15.48936170212766
+53023,"Garfield County, Washington",pop_asian,58,60.76595744680851
+53023,"Garfield County, Washington",pop_latinx,46,67.91489361702128
+53023,"Garfield County, Washington",edu_total,1664,92.93617021276596
+53023,"Garfield County, Washington",edu_8th,17,25.02127659574468
+53023,"Garfield County, Washington",edu_9th,15,17.872340425531913
+53023,"Garfield County, Washington",edu_10th,33,33.36170212765957
+53023,"Garfield County, Washington",edu_11th,9,21.4468085106383
+53023,"Garfield County, Washington",edu_12th,26,26.212765957446805
+53023,"Garfield County, Washington",edu_hs,353,126.29787234042553
+53023,"Garfield County, Washington",edu_ged,41,26.212765957446805
+53025,"Grant County, Washington",pop,97874,NA
+53025,"Grant County, Washington",pop_white,62182,2014.8085106382978
+53025,"Grant County, Washington",pop_black,1036,153.70212765957447
+53025,"Grant County, Washington",pop_native,1589,629.1063829787233
+53025,"Grant County, Washington",pop_asian,994,260.93617021276594
+53025,"Grant County, Washington",pop_latinx,41630,NA
+53025,"Grant County, Washington",edu_total,59904,176.3404255319149
+53025,"Grant County, Washington",edu_8th,1265,383.6595744680851
+53025,"Grant County, Washington",edu_9th,1887,557.6170212765957
+53025,"Grant County, Washington",edu_10th,901,327.6595744680851
+53025,"Grant County, Washington",edu_11th,1155,300.25531914893617
+53025,"Grant County, Washington",edu_12th,1190,330.04255319148933
+53025,"Grant County, Washington",edu_hs,13147,1100.936170212766
+53025,"Grant County, Washington",edu_ged,3660,534.9787234042553
+53027,"Grays Harbor County, Washington",pop,74737,NA
+53027,"Grays Harbor County, Washington",pop_white,63566,714.8936170212766
+53027,"Grays Harbor County, Washington",pop_black,1004,179.91489361702128
+53027,"Grays Harbor County, Washington",pop_native,2760,442.04255319148933
+53027,"Grays Harbor County, Washington",pop_asian,1026,201.36170212765956
+53027,"Grays Harbor County, Washington",pop_latinx,7879,NA
+53027,"Grays Harbor County, Washington",edu_total,54397,171.5744680851064
+53027,"Grays Harbor County, Washington",edu_8th,458,156.08510638297872
+53027,"Grays Harbor County, Washington",edu_9th,727,293.1063829787234
+53027,"Grays Harbor County, Washington",edu_10th,980,290.7234042553191
+53027,"Grays Harbor County, Washington",edu_11th,1357,343.1489361702128
+53027,"Grays Harbor County, Washington",edu_12th,669,189.44680851063828
+53027,"Grays Harbor County, Washington",edu_hs,14972,1241.5319148936169
+53027,"Grays Harbor County, Washington",edu_ged,4095,650.5531914893617
+53029,"Island County, Washington",pop,85938,NA
+53029,"Island County, Washington",pop_white,70430,904.3404255319149
+53029,"Island County, Washington",pop_black,2362,399.1489361702127
+53029,"Island County, Washington",pop_native,971,299.06382978723406
+53029,"Island County, Washington",pop_asian,3949,468.25531914893617
+53029,"Island County, Washington",pop_latinx,7226,NA
+53029,"Island County, Washington",edu_total,62604,774.4680851063829
+53029,"Island County, Washington",edu_8th,125,67.91489361702128
+53029,"Island County, Washington",edu_9th,194,114.38297872340425
+53029,"Island County, Washington",edu_10th,241,127.48936170212765
+53029,"Island County, Washington",edu_11th,669,224
+53029,"Island County, Washington",edu_12th,942,232.3404255319149
+53029,"Island County, Washington",edu_hs,11541,988.9361702127659
+53029,"Island County, Washington",edu_ged,2157,459.9148936170213
+53031,"Jefferson County, Washington",pop,32590,NA
+53031,"Jefferson County, Washington",pop_white,28968,532.595744680851
+53031,"Jefferson County, Washington",pop_black,200,121.53191489361701
+53031,"Jefferson County, Washington",pop_native,506,170.38297872340425
+53031,"Jefferson County, Washington",pop_asian,528,107.23404255319149
+53031,"Jefferson County, Washington",pop_latinx,1269,NA
+53031,"Jefferson County, Washington",edu_total,27383,115.57446808510637
+53031,"Jefferson County, Washington",edu_8th,34,36.93617021276596
+53031,"Jefferson County, Washington",edu_9th,188,115.57446808510637
+53031,"Jefferson County, Washington",edu_10th,219,128.68085106382978
+53031,"Jefferson County, Washington",edu_11th,228,157.27659574468083
+53031,"Jefferson County, Washington",edu_12th,283,145.36170212765956
+53031,"Jefferson County, Washington",edu_hs,4896,621.9574468085106
+53031,"Jefferson County, Washington",edu_ged,936,310.9787234042553
+53033,"King County, Washington",pop,2240876,NA
+53033,"King County, Washington",pop_white,1356265,3927.1489361702124
+53033,"King County, Washington",pop_black,144474,2996.595744680851
+53033,"King County, Washington",pop_native,13687,1504.851063829787
+53033,"King County, Washington",pop_asian,420434,4232.170212765957
+53033,"King County, Washington",pop_latinx,224407,NA
+53033,"King County, Washington",edu_total,1608743,NA
+53033,"King County, Washington",edu_8th,7223,854.2978723404254
+53033,"King County, Washington",edu_9th,10305,1142.6382978723404
+53033,"King County, Washington",edu_10th,8538,950.8085106382978
+53033,"King County, Washington",edu_11th,9943,1130.723404255319
+53033,"King County, Washington",edu_12th,20486,1558.468085106383
+53033,"King County, Washington",edu_hs,201653,5205.617021276596
+53033,"King County, Washington",edu_ged,37144,1889.7021276595744
+53035,"Kitsap County, Washington",pop,273072,NA
+53035,"Kitsap County, Washington",pop_white,215001,1189.1063829787233
+53035,"Kitsap County, Washington",pop_black,7591,879.3191489361702
+53035,"Kitsap County, Washington",pop_native,2974,488.51063829787233
+53035,"Kitsap County, Washington",pop_asian,13565,824.5106382978723
+53035,"Kitsap County, Washington",pop_latinx,22582,NA
+53035,"Kitsap County, Washington",edu_total,191555,123.91489361702128
+53035,"Kitsap County, Washington",edu_8th,562,239.48936170212764
+53035,"Kitsap County, Washington",edu_9th,791,274.04255319148933
+53035,"Kitsap County, Washington",edu_10th,1141,287.1489361702128
+53035,"Kitsap County, Washington",edu_11th,2125,438.46808510638294
+53035,"Kitsap County, Washington",edu_12th,2507,437.27659574468083
+53035,"Kitsap County, Washington",edu_hs,33902,1796.7659574468084
+53035,"Kitsap County, Washington",edu_ged,6677,829.2765957446808
+53037,"Kittitas County, Washington",pop,44147,NA
+53037,"Kittitas County, Washington",pop_white,37429,574.2978723404256
+53037,"Kittitas County, Washington",pop_black,439,153.70212765957447
+53037,"Kittitas County, Washington",pop_native,212,100.08510638297872
+53037,"Kittitas County, Washington",pop_asian,611,228.7659574468085
+53037,"Kittitas County, Washington",pop_latinx,4097,NA
+53037,"Kittitas County, Washington",edu_total,27206,250.2127659574468
+53037,"Kittitas County, Washington",edu_8th,73,51.234042553191486
+53037,"Kittitas County, Washington",edu_9th,449,170.38297872340425
+53037,"Kittitas County, Washington",edu_10th,200,122.72340425531914
+53037,"Kittitas County, Washington",edu_11th,457,239.48936170212764
+53037,"Kittitas County, Washington",edu_12th,425,152.51063829787233
+53037,"Kittitas County, Washington",edu_hs,5508,632.6808510638298
+53037,"Kittitas County, Washington",edu_ged,1324,299.06382978723406
+53039,"Klickitat County, Washington",pop,22478,NA
+53039,"Klickitat County, Washington",pop_white,20137,362.2127659574468
+53039,"Klickitat County, Washington",pop_black,156,65.53191489361701
+53039,"Klickitat County, Washington",pop_native,308,185.87234042553192
+53039,"Klickitat County, Washington",pop_asian,90,67.91489361702128
+53039,"Klickitat County, Washington",pop_latinx,2714,NA
+53039,"Klickitat County, Washington",edu_total,16786,123.91489361702128
+53039,"Klickitat County, Washington",edu_8th,163,103.6595744680851
+53039,"Klickitat County, Washington",edu_9th,251,120.34042553191489
+53039,"Klickitat County, Washington",edu_10th,243,140.59574468085106
+53039,"Klickitat County, Washington",edu_11th,364,220.4255319148936
+53039,"Klickitat County, Washington",edu_12th,97,78.63829787234042
+53039,"Klickitat County, Washington",edu_hs,3704,554.0425531914893
+53039,"Klickitat County, Washington",edu_ged,793,239.48936170212764
+53041,"Lewis County, Washington",pop,81214,NA
+53041,"Lewis County, Washington",pop_white,70011,774.4680851063829
+53041,"Lewis County, Washington",pop_black,534,122.72340425531914
+53041,"Lewis County, Washington",pop_native,623,243.06382978723403
+53041,"Lewis County, Washington",pop_asian,951,315.74468085106383
+53041,"Lewis County, Washington",pop_latinx,8881,NA
+53041,"Lewis County, Washington",edu_total,57626,123.91489361702128
+53041,"Lewis County, Washington",edu_8th,686,284.7659574468085
+53041,"Lewis County, Washington",edu_9th,711,226.38297872340425
+53041,"Lewis County, Washington",edu_10th,1091,297.8723404255319
+53041,"Lewis County, Washington",edu_11th,1222,318.12765957446805
+53041,"Lewis County, Washington",edu_12th,1105,302.6382978723404
+53041,"Lewis County, Washington",edu_hs,14041,966.2978723404254
+53041,"Lewis County, Washington",edu_ged,3298,544.5106382978723
+53043,"Lincoln County, Washington",pop,10798,NA
+53043,"Lincoln County, Washington",pop_white,9994,63.148936170212764
+53043,"Lincoln County, Washington",pop_black,72,44.08510638297872
+53043,"Lincoln County, Washington",pop_native,180,73.87234042553192
+53043,"Lincoln County, Washington",pop_asian,82,23.829787234042552
+53043,"Lincoln County, Washington",pop_latinx,399,NA
+53043,"Lincoln County, Washington",edu_total,7696,59.57446808510638
+53043,"Lincoln County, Washington",edu_8th,47,47.659574468085104
+53043,"Lincoln County, Washington",edu_9th,86,56
+53043,"Lincoln County, Washington",edu_10th,159,70.29787234042553
+53043,"Lincoln County, Washington",edu_11th,145,63.148936170212764
+53043,"Lincoln County, Washington",edu_12th,63,33.36170212765957
+53043,"Lincoln County, Washington",edu_hs,1739,177.531914893617
+53043,"Lincoln County, Washington",edu_ged,365,106.04255319148936
+53045,"Mason County, Washington",pop,64964,NA
+53045,"Mason County, Washington",pop_white,52653,745.8723404255319
+53045,"Mason County, Washington",pop_black,435,152.51063829787233
+53045,"Mason County, Washington",pop_native,1176,271.6595744680851
+53045,"Mason County, Washington",pop_asian,606,246.63829787234042
+53045,"Mason County, Washington",pop_latinx,6923,NA
+53045,"Mason County, Washington",edu_total,47485,197.7872340425532
+53045,"Mason County, Washington",edu_8th,278,144.17021276595744
+53045,"Mason County, Washington",edu_9th,660,336
+53045,"Mason County, Washington",edu_10th,795,235.91489361702128
+53045,"Mason County, Washington",edu_11th,624,222.80851063829786
+53045,"Mason County, Washington",edu_12th,1059,359.82978723404256
+53045,"Mason County, Washington",edu_hs,11764,904.3404255319149
+53045,"Mason County, Washington",edu_ged,2868,593.3617021276596
+53047,"Okanogan County, Washington",pop,41966,NA
+53047,"Okanogan County, Washington",pop_white,29219,655.3191489361702
+53047,"Okanogan County, Washington",pop_black,102,78.63829787234042
+53047,"Okanogan County, Washington",pop_native,4082,451.5744680851064
+53047,"Okanogan County, Washington",pop_asian,223,66.72340425531914
+53047,"Okanogan County, Washington",pop_latinx,8745,NA
+53047,"Okanogan County, Washington",edu_total,29575,225.1914893617021
+53047,"Okanogan County, Washington",edu_8th,415,160.85106382978722
+53047,"Okanogan County, Washington",edu_9th,634,235.91489361702128
+53047,"Okanogan County, Washington",edu_10th,490,169.1914893617021
+53047,"Okanogan County, Washington",edu_11th,574,177.531914893617
+53047,"Okanogan County, Washington",edu_12th,557,197.7872340425532
+53047,"Okanogan County, Washington",edu_hs,6964,639.8297872340426
+53047,"Okanogan County, Washington",edu_ged,1571,343.1489361702128
+53049,"Pacific County, Washington",pop,22974,NA
+53049,"Pacific County, Washington",pop_white,19161,400.3404255319149
+53049,"Pacific County, Washington",pop_black,138,92.93617021276596
+53049,"Pacific County, Washington",pop_native,536,165.61702127659575
+53049,"Pacific County, Washington",pop_asian,395,60.76595744680851
+53049,"Pacific County, Washington",pop_latinx,2309,NA
+53049,"Pacific County, Washington",edu_total,18066,139.40425531914892
+53049,"Pacific County, Washington",edu_8th,86,81.02127659574468
+53049,"Pacific County, Washington",edu_9th,174,115.57446808510637
+53049,"Pacific County, Washington",edu_10th,300,150.12765957446808
+53049,"Pacific County, Washington",edu_11th,408,200.17021276595744
+53049,"Pacific County, Washington",edu_12th,295,127.48936170212765
+53049,"Pacific County, Washington",edu_hs,4477,538.5531914893617
+53049,"Pacific County, Washington",edu_ged,809,214.46808510638297
+53051,"Pend Oreille County, Washington",pop,13302,NA
+53051,"Pend Oreille County, Washington",pop_white,11536,270.46808510638294
+53051,"Pend Oreille County, Washington",pop_black,41,53.61702127659574
+53051,"Pend Oreille County, Washington",pop_native,383,137.02127659574467
+53051,"Pend Oreille County, Washington",pop_asian,59,66.72340425531914
+53051,"Pend Oreille County, Washington",pop_latinx,586,NA
+53051,"Pend Oreille County, Washington",edu_total,9699,95.31914893617021
+53051,"Pend Oreille County, Washington",edu_8th,58,50.04255319148936
+53051,"Pend Oreille County, Washington",edu_9th,162,90.5531914893617
+53051,"Pend Oreille County, Washington",edu_10th,140,69.1063829787234
+53051,"Pend Oreille County, Washington",edu_11th,135,59.57446808510638
+53051,"Pend Oreille County, Washington",edu_12th,114,50.04255319148936
+53051,"Pend Oreille County, Washington",edu_hs,2667,402.7234042553191
+53051,"Pend Oreille County, Washington",edu_ged,436,120.34042553191489
+53053,"Pierce County, Washington",pop,910225,NA
+53053,"Pierce County, Washington",pop_white,634333,3041.8723404255315
+53053,"Pierce County, Washington",pop_black,63054,2105.3617021276596
+53053,"Pierce County, Washington",pop_native,10785,1363.063829787234
+53053,"Pierce County, Washington",pop_asian,59164,2021.9574468085104
+53053,"Pierce County, Washington",pop_latinx,105793,NA
+53053,"Pierce County, Washington",edu_total,615128,NA
+53053,"Pierce County, Washington",edu_8th,2921,542.1276595744681
+53053,"Pierce County, Washington",edu_9th,4399,741.1063829787233
+53053,"Pierce County, Washington",edu_10th,6171,851.9148936170212
+53053,"Pierce County, Washington",edu_11th,9454,926.9787234042552
+53053,"Pierce County, Washington",edu_12th,12653,1009.1914893617021
+53053,"Pierce County, Washington",edu_hs,135701,3632.851063829787
+53053,"Pierce County, Washington",edu_ged,27099,1765.787234042553
+53055,"San Juan County, Washington",pop,17631,NA
+53055,"San Juan County, Washington",pop_white,15954,91.74468085106382
+53055,"San Juan County, Washington",pop_black,164,71.48936170212765
+53055,"San Juan County, Washington",pop_native,128,48.85106382978723
+53055,"San Juan County, Washington",pop_asian,233,36.93617021276596
+53055,"San Juan County, Washington",pop_latinx,1181,NA
+53055,"San Juan County, Washington",edu_total,14457,75.06382978723404
+53055,"San Juan County, Washington",edu_8th,10,13.106382978723403
+53055,"San Juan County, Washington",edu_9th,54,35.744680851063826
+53055,"San Juan County, Washington",edu_10th,110,44.08510638297872
+53055,"San Juan County, Washington",edu_11th,126,58.38297872340425
+53055,"San Juan County, Washington",edu_12th,154,50.04255319148936
+53055,"San Juan County, Washington",edu_hs,2102,203.74468085106383
+53055,"San Juan County, Washington",edu_ged,270,64.34042553191489
+53057,"Skagit County, Washington",pop,128228,NA
+53057,"Skagit County, Washington",pop_white,101807,1413.1063829787233
+53057,"Skagit County, Washington",pop_black,961,159.6595744680851
+53057,"Skagit County, Washington",pop_native,2291,641.0212765957447
+53057,"Skagit County, Washington",pop_asian,2492,243.06382978723403
+53057,"Skagit County, Washington",pop_latinx,24325,NA
+53057,"Skagit County, Washington",edu_total,90674,129.87234042553192
+53057,"Skagit County, Washington",edu_8th,419,141.7872340425532
+53057,"Skagit County, Washington",edu_9th,1191,337.1914893617021
+53057,"Skagit County, Washington",edu_10th,859,249.02127659574467
+53057,"Skagit County, Washington",edu_11th,1428,355.063829787234
+53057,"Skagit County, Washington",edu_12th,1225,262.12765957446805
+53057,"Skagit County, Washington",edu_hs,19416,1017.531914893617
+53057,"Skagit County, Washington",edu_ged,3735,542.1276595744681
+53059,"Skamania County, Washington",pop,11973,NA
+53059,"Skamania County, Washington",pop_white,10902,202.5531914893617
+53059,"Skamania County, Washington",pop_black,10,13.106382978723403
+53059,"Skamania County, Washington",pop_native,244,109.61702127659574
+53059,"Skamania County, Washington",pop_asian,133,39.31914893617021
+53059,"Skamania County, Washington",pop_latinx,815,NA
+53059,"Skamania County, Washington",edu_total,9048,83.40425531914893
+53059,"Skamania County, Washington",edu_8th,28,34.5531914893617
+53059,"Skamania County, Washington",edu_9th,30,28.595744680851062
+53059,"Skamania County, Washington",edu_10th,116,85.7872340425532
+53059,"Skamania County, Washington",edu_11th,205,86.97872340425532
+53059,"Skamania County, Washington",edu_12th,166,71.48936170212765
+53059,"Skamania County, Washington",edu_hs,2455,244.25531914893617
+53059,"Skamania County, Washington",edu_ged,436,133.44680851063828
+53061,"Snohomish County, Washington",pop,820024,NA
+53061,"Snohomish County, Washington",pop_white,582306,2982.2978723404253
+53061,"Snohomish County, Washington",pop_black,27614,1277.276595744681
+53061,"Snohomish County, Washington",pop_native,7101,863.8297872340426
+53061,"Snohomish County, Washington",pop_asian,95847,1846.8085106382978
+53061,"Snohomish County, Washington",pop_latinx,88580,NA
+53061,"Snohomish County, Washington",edu_total,572584,188.25531914893617
+53061,"Snohomish County, Washington",edu_8th,2534,630.2978723404256
+53061,"Snohomish County, Washington",edu_9th,4233,738.7234042553191
+53061,"Snohomish County, Washington",edu_10th,5181,736.3404255319149
+53061,"Snohomish County, Washington",edu_11th,5788,667.2340425531914
+53061,"Snohomish County, Washington",edu_12th,10404,1006.8085106382978
+53061,"Snohomish County, Washington",edu_hs,110695,3087.1489361702124
+53061,"Snohomish County, Washington",edu_ged,22522,1347.5744680851062
+53063,"Spokane County, Washington",pop,531477,NA
+53063,"Spokane County, Washington",pop_white,455903,1628.7659574468084
+53063,"Spokane County, Washington",pop_black,9606,840
+53063,"Spokane County, Washington",pop_native,6167,832.8510638297872
+53063,"Spokane County, Washington",pop_asian,11784,787.5744680851063
+53063,"Spokane County, Washington",pop_latinx,33088,NA
+53063,"Spokane County, Washington",edu_total,364983,NA
+53063,"Spokane County, Washington",edu_8th,1635,393.1914893617021
+53063,"Spokane County, Washington",edu_9th,2264,500.4255319148936
+53063,"Spokane County, Washington",edu_10th,3515,629.1063829787233
+53063,"Spokane County, Washington",edu_11th,4165,554.0425531914893
+53063,"Spokane County, Washington",edu_12th,4689,657.7021276595744
+53063,"Spokane County, Washington",edu_hs,67674,2324.595744680851
+53063,"Spokane County, Washington",edu_ged,17001,1271.3191489361702
+53065,"Stevens County, Washington",pop,46057,NA
+53065,"Stevens County, Washington",pop_white,40654,401.531914893617
+53065,"Stevens County, Washington",pop_black,166,119.14893617021276
+53065,"Stevens County, Washington",pop_native,2259,253.78723404255317
+53065,"Stevens County, Washington",pop_asian,296,92.93617021276596
+53065,"Stevens County, Washington",pop_latinx,1822,NA
+53065,"Stevens County, Washington",edu_total,33122,121.53191489361701
+53065,"Stevens County, Washington",edu_8th,206,91.74468085106382
+53065,"Stevens County, Washington",edu_9th,251,100.08510638297872
+53065,"Stevens County, Washington",edu_10th,504,160.85106382978722
+53065,"Stevens County, Washington",edu_11th,576,150.12765957446808
+53065,"Stevens County, Washington",edu_12th,539,202.5531914893617
+53065,"Stevens County, Washington",edu_hs,9192,750.6382978723404
+53065,"Stevens County, Washington",edu_ged,2227,363.40425531914894
+53067,"Thurston County, Washington",pop,290642,NA
+53067,"Thurston County, Washington",pop_white,225666,1932.5957446808509
+53067,"Thurston County, Washington",pop_black,8532,965.1063829787233
+53067,"Thurston County, Washington",pop_native,3202,573.1063829787233
+53067,"Thurston County, Washington",pop_asian,16725,1016.3404255319149
+53067,"Thurston County, Washington",pop_latinx,27835,NA
+53067,"Thurston County, Washington",edu_total,205153,135.82978723404256
+53067,"Thurston County, Washington",edu_8th,491,183.48936170212764
+53067,"Thurston County, Washington",edu_9th,1177,434.89361702127655
+53067,"Thurston County, Washington",edu_10th,1230,337.1914893617021
+53067,"Thurston County, Washington",edu_11th,2106,627.9148936170212
+53067,"Thurston County, Washington",edu_12th,3384,594.5531914893617
+53067,"Thurston County, Washington",edu_hs,35643,2079.148936170213
+53067,"Thurston County, Washington",edu_ged,8993,1005.6170212765957
+53069,"Wahkiakum County, Washington",pop,4373,NA
+53069,"Wahkiakum County, Washington",pop_white,3768,209.70212765957444
+53069,"Wahkiakum County, Washington",pop_black,57,34.5531914893617
+53069,"Wahkiakum County, Washington",pop_native,11,19.06382978723404
+53069,"Wahkiakum County, Washington",pop_asian,71,54.80851063829787
+53069,"Wahkiakum County, Washington",pop_latinx,347,67.91489361702128
+53069,"Wahkiakum County, Washington",edu_total,3390,137.02127659574467
+53069,"Wahkiakum County, Washington",edu_8th,16,22.638297872340424
+53069,"Wahkiakum County, Washington",edu_9th,6,11.914893617021276
+53069,"Wahkiakum County, Washington",edu_10th,38,38.12765957446808
+53069,"Wahkiakum County, Washington",edu_11th,28,30.97872340425532
+53069,"Wahkiakum County, Washington",edu_12th,116,71.48936170212765
+53069,"Wahkiakum County, Washington",edu_hs,738,146.5531914893617
+53069,"Wahkiakum County, Washington",edu_ged,270,110.80851063829786
+53071,"Walla Walla County, Washington",pop,62168,NA
+53071,"Walla Walla County, Washington",pop_white,49721,998.4680851063829
+53071,"Walla Walla County, Washington",pop_black,1137,194.2127659574468
+53071,"Walla Walla County, Washington",pop_native,840,432.51063829787233
+53071,"Walla Walla County, Washington",pop_asian,1003,201.36170212765956
+53071,"Walla Walla County, Washington",pop_latinx,13654,NA
+53071,"Walla Walla County, Washington",edu_total,40895,231.14893617021275
+53071,"Walla Walla County, Washington",edu_8th,431,214.46808510638297
+53071,"Walla Walla County, Washington",edu_9th,511,219.23404255319147
+53071,"Walla Walla County, Washington",edu_10th,611,283.5744680851064
+53071,"Walla Walla County, Washington",edu_11th,592,204.93617021276594
+53071,"Walla Walla County, Washington",edu_12th,1001,349.1063829787234
+53071,"Walla Walla County, Washington",edu_hs,6931,608.8510638297872
+53071,"Walla Walla County, Washington",edu_ged,1753,340.7659574468085
+53073,"Whatcom County, Washington",pop,224533,NA
+53073,"Whatcom County, Washington",pop_white,182547,1278.468085106383
+53073,"Whatcom County, Washington",pop_black,2158,328.8510638297872
+53073,"Whatcom County, Washington",pop_native,5348,627.9148936170212
+53073,"Whatcom County, Washington",pop_asian,9511,748.2553191489361
+53073,"Whatcom County, Washington",pop_latinx,22258,NA
+53073,"Whatcom County, Washington",edu_total,150367,188.25531914893617
+53073,"Whatcom County, Washington",edu_8th,551,188.25531914893617
+53073,"Whatcom County, Washington",edu_9th,959,319.3191489361702
+53073,"Whatcom County, Washington",edu_10th,1846,644.595744680851
+53073,"Whatcom County, Washington",edu_11th,2333,601.7021276595744
+53073,"Whatcom County, Washington",edu_12th,2001,424.17021276595744
+53073,"Whatcom County, Washington",edu_hs,27535,1525.1063829787233
+53073,"Whatcom County, Washington",edu_ged,5271,793.531914893617
+53075,"Whitman County, Washington",pop,48197,NA
+53075,"Whitman County, Washington",pop_white,38736,397.9574468085106
+53075,"Whitman County, Washington",pop_black,1016,172.7659574468085
+53075,"Whitman County, Washington",pop_native,273,159.6595744680851
+53075,"Whitman County, Washington",pop_asian,4015,303.82978723404256
+53075,"Whitman County, Washington",pop_latinx,3155,NA
+53075,"Whitman County, Washington",edu_total,24106,243.06382978723403
+53075,"Whitman County, Washington",edu_8th,60,56
+53075,"Whitman County, Washington",edu_9th,118,72.68085106382978
+53075,"Whitman County, Washington",edu_10th,153,69.1063829787234
+53075,"Whitman County, Washington",edu_11th,176,97.70212765957446
+53075,"Whitman County, Washington",edu_12th,381,189.44680851063828
+53075,"Whitman County, Washington",edu_hs,2980,357.4468085106383
+53075,"Whitman County, Washington",edu_ged,715,234.72340425531914
+53077,"Yakima County, Washington",pop,255151,NA
+53077,"Yakima County, Washington",pop_white,166449,3360
+53077,"Yakima County, Washington",pop_black,2544,327.6595744680851
+53077,"Yakima County, Washington",pop_native,8363,967.4893617021277
+53077,"Yakima County, Washington",pop_asian,2519,412.25531914893617
+53077,"Yakima County, Washington",pop_latinx,129103,NA
+53077,"Yakima County, Washington",edu_total,154958,175.14893617021275
+53077,"Yakima County, Washington",edu_8th,3077,646.9787234042553
+53077,"Yakima County, Washington",edu_9th,4923,893.6170212765957
+53077,"Yakima County, Washington",edu_10th,3320,505.1914893617021
+53077,"Yakima County, Washington",edu_11th,4780,753.0212765957447
+53077,"Yakima County, Washington",edu_12th,3947,625.531914893617
+53077,"Yakima County, Washington",edu_hs,33015,1751.4893617021276
+53077,"Yakima County, Washington",edu_ged,9099,1084.2553191489362
